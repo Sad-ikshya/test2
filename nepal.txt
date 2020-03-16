@@ -2,4 +2,5 @@ bilson naga
 from Bhaktapur.
 work at leaffrog.
 
-sadikshya
+sadikshya 
+from thali.
