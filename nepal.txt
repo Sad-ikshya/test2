@@ -3,3 +3,5 @@ from Bhaktapur.
 work at leaffrog.
 
 sadikshya
+thali
+ktm
